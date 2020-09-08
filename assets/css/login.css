@@ -1,0 +1,13 @@
+.login-box {
+    width: 400px;
+    height: 310px;
+    background-color: #fff;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.login-box .title-box {
+    background: url('../images/login_title.png') no-repeat center;
+    height:60px;
+}
